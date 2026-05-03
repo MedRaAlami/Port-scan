@@ -29,7 +29,7 @@ Concurrency is implemented using ThreadPoolExecutor to improve performance.
 Clone the repository:
 
 ```bash
-git clone https://github.com/MedRaAlami/port-scanner.git
+git clone github.com/MedRaAlami/Port-scan/blob/main/portscanner.py
 cd port-scanner
 ```
 
